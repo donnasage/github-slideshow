@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our Github slide!"
+title: "Welcome to our Changed Github slide!"
 
 ---
 
